@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Open Book Vector silhouette under Logo -->
+    <path
+        android:fillColor="#60A5FA"
+        android:pathData="M24,38 C24,30 40,28 54,34 C68,28 84,30 84,38 L84,78 C84,70 68,68 54,74 C40,68 24,70 24,78 Z" />
+    
+    <path
+        android:fillColor="#1E3A8A"
+        android:pathData="M54,34 L54,74"
+        android:strokeWidth="1.5"
+        android:strokeColor="#1E3A8A" />
+
+    <!-- Pure bold stylized letter N overlapping the center -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M40,44 L46,44 L60,63 L60,44 L66,44 L66,66 L60,66 L46,47 L46,66 L40,66 Z" />
+        
+    <!-- Smooth golden accent ribbon peeking from the bottom of book -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M52,73 L56,73 L56,82 L54,80 L52,82 Z" />
+</vector>

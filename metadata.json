@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Komik NaLex",
+  "description": "A modern Material 3 comic reader featuring extension support, offline reading, and automated tracking for a seamless reading experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
